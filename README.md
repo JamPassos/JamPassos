@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JamPassos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JamPassos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="120" src="https://64.media.tumblr.com/8d280b8112668b621d2f19d282c65a17/a6c27d01dfe60d2c-3f/s540x810/7f71afb93122b2432b11e36daf86c24cf9b535be.gif"  />
 
 ###
